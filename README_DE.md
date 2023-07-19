@@ -43,7 +43,9 @@ Sonnenschein
    - **Zeile 3** - Dasselbe wie in Zeile 1
 
 2. Wenn keine **number** an die Funktion übergeben wird, sollte die Funktion **10** als Standardzahl verwenden
+
 3. Wenn keine **string** an die Funktion übergeben wird, sollte die Funktion **"hi"** als Standardstring verwenden
+
 4. Exportiere deine Funktion als **Standard-Export (esm)**
 
 ## Aufgabe 3
